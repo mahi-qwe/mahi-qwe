@@ -1,10 +1,11 @@
 <p><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmI2cGZ3OW1nY2ExeXpuNnBqc2pqMmd3bjhkM2VzaGhyeGNrMTJzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" alt="Coder-Pic"></p>
 <h2>👋 Mahir here! I build things for the web.</h2>
 <h3>👨🏻‍💻 &nbsp;Who Am I?</h3>
-💡 &nbsp;Breaking stuff with code and occasionally making cool websites by accident.<br>
-🎓 &nbsp;Currently surviving React and Redux… living in a loop of build → break → fix.<br>
-✍️ &nbsp;When I’m not coding, I’m probably lost in movies and calling it “brain fuel”.<br>
-💬 &nbsp;DM me for side projects, chaotic ideas, or just to gossip about tech trends.<br>
+💡 &nbsp;Passionate about building high-quality web applications and exploring modern technologies.<br>
+🎓 &nbsp;Currently focusing on mastering React and Redux for scalable front-end development.<br>
+✍️ &nbsp;In my free time, I enjoy watching cinema, studying UI/UX design trends, and expanding my skill set.<br>
+💬 &nbsp;Open to collaborative projects, professional networking, and meaningful tech discussions.<br>
+
   
 <h3>🛠 &nbsp;Tools</h3>
 <!-- <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">&nbsp;
