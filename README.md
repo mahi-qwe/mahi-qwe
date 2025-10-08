@@ -1,4 +1,4 @@
-<p><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmI2cGZ3OW1nY2ExeXpuNnBqc2pqMmd3bjhkM2VzaGhyeGNrMTJzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" alt="Coder-Pic"></p>
+<p><img src="https://i.pinimg.com/originals/14/7d/72/147d722dced9c8e41073ee6059171779.gif"></p>
 <h2>👋 Mahir here! I build things for the web.</h2>
 <h3>👨🏻‍💻 Who Am I?</h3>
 💡 &nbsp;Passionate about building high-quality web applications and exploring modern technologies.<br>
